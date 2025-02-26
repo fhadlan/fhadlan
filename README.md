@@ -5,8 +5,10 @@
 
 - 📫 How to reach me **fhadlan123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Demo MERN stack Project bookstore: </h3>
 <p align="left">
+  https://bookstore-mern-frontend-dusky.vercel.app/
+  https://github.com/fhadlan/bookstore-mern-frontend
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
